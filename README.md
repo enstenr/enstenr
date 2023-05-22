@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enstenr / S Rajesh 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Pythong, GoLang, Google DE & ML 
-- 💞️ I’m looking to collaborate on Technological b
+- 💞️ 
 - 📫 How to reach me rajeshs@outlook.de / enstenr@gmail.com 
 
 You can read my blogs @  
