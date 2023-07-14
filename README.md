@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @enstenr / S Rajesh 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Pythong, GoLang, Google DE & ML 
-- 💞️ 
+- 👋 Hi, I’m S Rajesh with id @enstenr 
+- 👀 I’m interested in R&D and like exploring new technical stuffs. 
+- 🌱 Polyglot engineer and i got chance to work from Java Servlets / JSP, Adobe flex , EJB , Spring , Spring Boot, Angular JS / Angular , Python, Golang on variety of full tech stack
+- 
 - 📫 How to reach me rajeshs@outlook.de / enstenr@gmail.com 
 
 You can read my blogs @  
