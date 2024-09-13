@@ -1,8 +1,8 @@
-- 👋 Hi, I’m S Rajesh with id @enstenr 
+- 👋 Hi, I’m S Rajesh  
 - 👀 I’m interested in R&D and like exploring new technical stuffs. 
 - 🌱 Polyglot engineer and i got chance to work from Java Servlets / JSP, Adobe flex , EJB , Spring , Spring Boot, Angular JS / Angular , Python, Golang on variety of full tech stack
 - 
-- 📫 How to reach me rajeshs@outlook.de / enstenr@gmail.com 
+- 📫 How to reach me rajeshs@outlook.de / srajesh2712@gmail.com
 
 You can read my blogs @  
 <font size="12">http://srajesh.in </font>
