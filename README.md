@@ -5,7 +5,7 @@
 - 📫 How to reach me rajeshs@outlook.de / srajesh2712@gmail.com
 
 You can read my blogs @  
-<font size="12">http://srajesh.in </font>
+<font size="12">https://srajesh84.blogspot.com/ </font>
 
 <!---
 enstenr/enstenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
