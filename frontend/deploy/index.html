@@ -36,8 +36,27 @@
         p {
             margin: 1rem 0;
         }
-        ul {
-            margin: 0.5rem 0 1rem 1.5rem;
+        .scrollable-list {
+            max-height: 200px;
+            overflow-y: auto;
+            padding: 0.5rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #fafafa;
+        }
+        .scrollable-list ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        .scrollable-list li {
+            margin: 0.5rem 0;
+            display: flex;
+            align-items: center;
+        }
+        .scrollable-list li::before {
+            content: '🔹';
+            margin-right: 0.5rem;
         }
         a {
             color: #4CAF50;
@@ -62,6 +81,23 @@
         }
         .links ul li {
             margin: 0.5rem 0;
+            display: flex;
+            align-items: center;
+        }
+        .links ul li::before {
+            content: '🌐';
+            margin-right: 0.5rem;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+            }
+            h1 {
+                font-size: 1.5rem;
+            }
+            .scrollable-list {
+                max-height: 150px;
+            }
         }
     </style>
 </head>
@@ -73,7 +109,8 @@
         <p><strong>Professional Experience:</strong> I am a seasoned Software Architect with 17 years of experience in full-stack development and technology leadership. I have successfully delivered scalable solutions using diverse tech stacks across industries.</p>
         <p><strong>Current Status:</strong> I am currently pursuing an M.Sc. in Big Data at the University of Stirling, where I am further enhancing my expertise in data-driven technologies and analytics.</p>
         <p>👀 I have a strong passion for Research and Development, constantly exploring innovative technical solutions and trends.</p>
-        <p>🌱 As a polyglot engineer, I am eager to learn and adapt to new technologies. My expertise spans multiple domains, including:
+        <p>🌱 As a polyglot engineer, I am eager to learn and adapt to new technologies. My expertise spans multiple domains, including:</p>
+        <div class="scrollable-list">
             <ul>
                 <li>Java Servlets / JSP</li>
                 <li>Adobe Flex</li>
@@ -83,26 +120,31 @@
                 <li>Python</li>
                 <li>Golang</li>
             </ul>
-        </p>
-        <p>📫 <strong>Contact Information:</strong>
+        </div>
+        <p>📫 <strong>Contact Information:</strong></p>
+        <div class="scrollable-list">
             <ul>
                 <li>Email: <a href="mailto:rajeshs@outlook.de">rajeshs@outlook.de</a></li>
                 <li>Email: <a href="mailto:srajesh2712@gmail.com">srajesh2712@gmail.com</a></li>
             </ul>
-        </p>
+        </div>
         <p>💻 <strong>Blog:</strong> You can read my insights and articles at: <a href="https://srajesh84.blogspot.com/" target="_blank">https://srajesh84.blogspot.com/</a></p>
         <div class="links">
             <h2>Explore My Contributions:</h2>
-            <ul>
-                <li>📊 Kaggle: <a href="https://www.kaggle.com/rajeshsubramanian27" target="_blank">View my Kaggle Profile</a></li>
-                <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/srajesh27/" target="_blank">Connect with me on LinkedIn</a></li>
-                <li>🔧 GitHub: <a href="https://github.com/enstenr" target="_blank">Explore my GitHub Projects</a></li>
-                <li>🇩🇪 German Learning Channel: <a href="https://www.youtube.com/@lingolearner27" target="_blank">Watch on YouTube</a></li>
-                <li>🎥 Vlog Channel: <a href="https://www.youtube.com/@rinvvlogs" target="_blank">Watch on YouTube</a></li>
-                <li>🌐 Technical Channel: <a href="https://www.youtube.com/@fullstack360" target="_blank">Watch on YouTube</a></li>
-            </ul>
+            <div class="scrollable-list">
+                <ul>
+                    <li>📊 Kaggle: <a href="https://www.kaggle.com/rajeshsubramanian27" target="_blank">View my Kaggle Profile</a></li>
+                    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/srajesh27/" target="_blank">Connect with me on LinkedIn</a></li>
+                    <li>🔧 GitHub: <a href="https://github.com/enstenr" target="_blank">Explore my GitHub Projects</a></li>
+                    <li>🇩🇪 German Learning Channel: <a href="https://www.youtube.com/@lingolearner27" target="_blank">Watch on YouTube</a></li>
+                    <li>🎥 Vlog Channel: <a href="https://www.youtube.com/@rinvvlogs" target="_blank">Watch on YouTube</a></li>
+                    <li>🌐 Technical Channel: <a href="https://www.youtube.com/@fullstack360" target="_blank">Watch on YouTube</a></li>
+                </ul>
+            </div>
         </div>
-<div><h1><a href='german.html'>I want to Play and Learn German</h1></div>
+        <div>
+            <h1><a href="german.html">I want to Play and Learn German</a></h1>
+        </div>
     </div>
     <footer>
         &copy; 2025 S Rajesh. All rights reserved.
