@@ -1,13 +1,25 @@
-- 👋 Hi, S Rajesh here  
-- 👀 I’m interested in R&D and like exploring new technical stuffs. 
-- 🌱 Polyglot engineer interested to learn any techstack and work on it. As of now i can develop in Java Servlets / JSP, Adobe flex , EJB , Spring , Spring Boot, Angular JS / Angular , Python, Golang on variety of full tech stack
-- 
-- 📫 How to reach me rajeshs@outlook.de / srajesh2712@gmail.com
+🚀 **Data Engineer & Remote Sensing Researcher | Big Data & Geospatial Analytics**
 
-You can read my blogs @  
-<font size="12">https://srajesh84.blogspot.com/ </font>
+Hi, I’m S Rajesh 👋  
 
-<!---
-enstenr/enstenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about **building scalable data pipelines and applying Big Data analytics** to solve real-world problems, especially in **Earth Observation (EO) and geospatial research**.  
+
+### What I do:
+- Develop **near-real-time flood & vegetation monitoring pipelines** using **Python, Apache Spark, Airflow, HDFS, and Sedona, Dask **  
+- Work with **Sentinel-1 SAR GRD/SLC data**, performing preprocessing, analysis, and ML-based predictions  
+- Build **end-to-end data engineering solutions**: ingestion → preprocessing → storage → analytics → visualization  
+- Contribute to **open-source projects** and develop reproducible tools for the research & EO community  
+
+### Technical Expertise:
+Python | PySpark | Apache Spark | HDFS | Airflow | PyroSAR | GeoPandas | Sedona | SAR Remote Sensing | Big Data | Machine Learning  
+
+### Achievements & Interests:
+- Implemented **SAR-based flood detection pipelines** integrated with ML for predictive analytics  
+- Explored **biomass monitoring and SAR-optical data fusion** for scalable geospatial pipelines  
+- Actively contribute to **open-source projects in Big Data and EO**  
+- Passionate about **research and innovation in applied geospatial analytics**  
+
+📫 **Contact Me:**  
+ [srajesh2712@gmail.com](mailto:srajesh2712@gmail.com)  | [rajeshs@outlook.de](mailto:rajeshs@outlook.de)
+
+📖 **Read my blogs:** [srajesh84.blogspot.com](https://srajesh84.blogspot.com/)  
