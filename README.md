@@ -13,6 +13,7 @@ I am passionate about **building scalable data pipelines and applying Big Data a
 ### 🛠️ Tech Stack
 
 Big Data and Distributed Computing
+
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-F37440?style=for-the-badge&logo=dask&logoColor=white)
@@ -24,6 +25,7 @@ Big Data and Distributed Computing
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 Geospatial, Remote Sensing, EO
+
 ![PyroSAR](https://img.shields.io/badge/PyroSAR-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0C55A5?style=for-the-badge&logo=python&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-1E5128?style=for-the-badge&logo=python&logoColor=white)
@@ -33,12 +35,14 @@ Geospatial, Remote Sensing, EO
 ![COG](https://img.shields.io/badge/COG%20(Cloud%20Optimized%20GeoTIFF)-556B2F?style=for-the-badge)
 
 AI, ML, Data Science
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-008000?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 Backend & Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -51,6 +55,7 @@ Backend & Programming
 ![gRPC](https://img.shields.io/badge/gRPC-181717?style=for-the-badge)
 
 Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular 16](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -60,6 +65,7 @@ Frontend
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
 Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -70,6 +76,7 @@ Cloud & DevOps
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 Databases & Graph
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -80,6 +87,7 @@ Databases & Graph
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 Messaging & APIs
+
 ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/SOAP-1E90FF?style=for-the-badge)
 ![WebServices](https://img.shields.io/badge/WebServices-696969?style=for-the-badge)
